@@ -1,0 +1,8 @@
+imagenet-c
+numpy
+opencv-python-headless
+pandas
+Pillow
+scikit-image
+torch
+torchvision
