@@ -12,9 +12,9 @@ The code in this repository is based on / uses:
 - github.com/gidariss/FeatureLearningRotNet
 
 ## Files
-https://oc.informatik.uni-wuerzburg.de/s/fZJyDZnB2NANTms
+https://oc.informatik.uni-wuerzburg.de/s/iDdrna3eCbDoPSb
 
-PW: `oosCmnMQ`
+PW: `oosCmnMQ10`
 
 ## Citation
 ```bib
