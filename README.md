@@ -12,7 +12,7 @@ The code in this repository is based on / uses:
 - github.com/gidariss/FeatureLearningRotNet
 
 ## Files
-https://oc.informatik.uni-wuerzburg.de/s/iDdrna3eCbDoPSb
+https://oc.informatik.uni-wuerzburg.de/s/6L5CNQsbp2yMpwC
 
 PW: `oosCmnMQ10`
 
